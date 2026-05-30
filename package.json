@@ -4,7 +4,7 @@
   "description": "Backend para sistema de asesorías académicas",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "npm run init-db && node server.js",
     "dev": "nodemon server.js",
     "init-db": "node database/init.js"
   },
