@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api';
+const API_URL = 'https://proyectofinal-production-49e7.up.railway.app/api';
 
 // =============================================
 // 1. HELPERS DE AUTH Y FETCH
