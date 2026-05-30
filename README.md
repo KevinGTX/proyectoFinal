@@ -1,5 +1,5 @@
 # Backend - Sistema de Asesorías Académicas
-
+KEVBIN HUMBERTO URQUIJO LUZANIA - PROGRAMACION WEB 2 - Dr. JESUS MIGUEL GARCIA GORROSTIETA 
 ## Instalación (paso a paso)
 
 ```bash
